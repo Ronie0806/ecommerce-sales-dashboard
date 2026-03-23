@@ -1,4 +1,5 @@
 # E-Commerce Sales Performance Dashboard 📊
+![Dashboard Image](dashboard.jpg.png)
 
 ## Project Overview
 This end-to-end data analytics project demonstrates the ability to process raw, unstructured retail data, perform exploratory data analysis (EDA), and build an interactive Business Intelligence dashboard. The goal of this project is to provide actionable insights into revenue trends, product performance, and customer purchasing behavior for an online retail company.
